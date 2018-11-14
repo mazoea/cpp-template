@@ -1,0 +1,1 @@
+Old-school cpp template with predefined visual studio Property Sheets. Still used by non cmake external libraries.
